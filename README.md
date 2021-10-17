@@ -3,5 +3,7 @@
 -----
 
 <h4 align="center"> 
-	🚧  Projeto MapsTravelApp 🚀 Em construção...  🚧
+	> Status do Projeto: concluído :white_check_mark:
+
+<!-- 	🚧  Projeto MapsTravelApp 🚀 Em construção...  🚧 -->
 </h4>
